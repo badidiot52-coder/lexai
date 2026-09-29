@@ -1,0 +1,5 @@
+# LEXAI runtime has zero required dependencies (stdlib only, including
+# the YAML fallback parser in lexai/config.py).
+# Optional: PyYAML for full YAML feature support in integrations.yaml.
+PyYAML>=6.0; python_version >= "0"  # optional, safe to remove
+pytest>=8.0

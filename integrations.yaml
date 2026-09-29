@@ -1,0 +1,13 @@
+# LEXAI integrations configuration
+#
+# Each key declares an integration LEXAI can activate once its code ships.
+# For now this file only declares intent; nothing here runs anything.
+#
+# Future example:
+# integrations:
+#   gmail:
+#     scopes: [read, send]
+#   calendar:
+#     address: you@example.com
+
+integrations: {}
