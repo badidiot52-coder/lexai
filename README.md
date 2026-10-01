@@ -15,7 +15,7 @@ LEXAI is a command-line chat agent that talks to any OpenAI-compatible chat API.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/lexai.git
+git clone https://github.com/badidiot52-coder/lexai.git
 cd lexai
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
